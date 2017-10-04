@@ -23,6 +23,7 @@
     <ProjectReference Include="..\CEM.Core\CEM.Core.csproj" />
     <ProjectReference Include="..\CEM.Data\CEM.Data.csproj" />
     <ProjectReference Include="..\CEM.Repositories\CEM.Repositories.csproj" />
+    <ProjectReference Include="..\CEM.Services\CEM.Services.csproj" />
   </ItemGroup>
 
 </Project>

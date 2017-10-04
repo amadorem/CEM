@@ -5068,6 +5068,20 @@
         "runtime": {
           "bin/placeholder/CEM.Repositories.dll": {}
         }
+      },
+      "CEM.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "CEM.Core": "1.0.0",
+          "CEM.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CEM.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CEM.Services.dll": {}
+        }
       }
     }
   },
@@ -13159,6 +13173,11 @@
       "type": "project",
       "path": "../CEM.Repositories/CEM.Repositories.csproj",
       "msbuildProject": "../CEM.Repositories/CEM.Repositories.csproj"
+    },
+    "CEM.Services/1.0.0": {
+      "type": "project",
+      "path": "../CEM.Services/CEM.Services.csproj",
+      "msbuildProject": "../CEM.Services/CEM.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13166,6 +13185,7 @@
       "CEM.Core >= 1.0.0",
       "CEM.Data >= 1.0.0",
       "CEM.Repositories >= 1.0.0",
+      "CEM.Services >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
@@ -13214,6 +13234,9 @@
             },
             "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\CEM.Repositories.csproj": {
               "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\CEM.Repositories.csproj"
+            },
+            "E:\\Personal\\Projects\\CEM\\CEM.Services\\CEM.Services.csproj": {
+              "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Services\\CEM.Services.csproj"
             }
           }
         }

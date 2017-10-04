@@ -11,6 +11,8 @@ using Microsoft.Extensions.Options;
 using CEM.Data;
 using Microsoft.EntityFrameworkCore;
 using CEM.Repositories;
+using CEM.Services.Interfaces;
+using CEM.Services;
 
 namespace CEM.WebAPI
 {
@@ -31,6 +33,7 @@ namespace CEM.WebAPI
             var connection = @"Server=(localdb)\mssqllocaldb;Database=CEMDb;Trusted_Connection=True;";
             services.AddDbContext<CEMContext>(options => options.UseSqlServer(connection));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddScoped(typeof(ISYService), typeof(SYService));
         }
 
 

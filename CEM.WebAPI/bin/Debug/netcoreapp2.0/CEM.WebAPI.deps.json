@@ -26,6 +26,7 @@
           "CEM.Core": "1.0.0",
           "CEM.Data": "1.0.0",
           "CEM.Repositories": "1.0.0",
+          "CEM.Services": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
@@ -4092,6 +4093,18 @@
           "CEM.Repositories.dll": {}
         }
       },
+      "CEM.Services/1.0.0": {
+        "dependencies": {
+          "CEM.Core": "1.0.0",
+          "CEM.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "CEM.Services.dll": {}
+        },
+        "compile": {
+          "CEM.Services.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -6415,6 +6428,11 @@
       "sha512": ""
     },
     "CEM.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CEM.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
