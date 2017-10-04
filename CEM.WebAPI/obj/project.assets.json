@@ -13183,11 +13183,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Personal\\CEM\\CEM.WebAPI\\CEM.WebAPI.csproj",
+      "projectUniqueName": "E:\\Personal\\Projects\\CEM\\CEM.WebAPI\\CEM.WebAPI.csproj",
       "projectName": "CEM.WebAPI",
-      "projectPath": "E:\\Personal\\CEM\\CEM.WebAPI\\CEM.WebAPI.csproj",
+      "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.WebAPI\\CEM.WebAPI.csproj",
       "packagesPath": "C:\\Users\\michaela\\.nuget\\packages\\",
-      "outputPath": "E:\\Personal\\CEM\\CEM.WebAPI\\obj\\",
+      "outputPath": "E:\\Personal\\Projects\\CEM\\CEM.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13206,14 +13206,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Personal\\CEM\\CEM.Core\\CEM.Core.csproj": {
-              "projectPath": "E:\\Personal\\CEM\\CEM.Core\\CEM.Core.csproj"
+            "E:\\Personal\\Projects\\CEM\\CEM.Core\\CEM.Core.csproj": {
+              "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Core\\CEM.Core.csproj"
             },
-            "E:\\Personal\\CEM\\CEM.Data\\CEM.Data.csproj": {
-              "projectPath": "E:\\Personal\\CEM\\CEM.Data\\CEM.Data.csproj"
+            "E:\\Personal\\Projects\\CEM\\CEM.Data\\CEM.Data.csproj": {
+              "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Data\\CEM.Data.csproj"
             },
-            "E:\\Personal\\CEM\\CEM.Repositories\\CEM.Repositories.csproj": {
-              "projectPath": "E:\\Personal\\CEM\\CEM.Repositories\\CEM.Repositories.csproj"
+            "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\CEM.Repositories.csproj": {
+              "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\CEM.Repositories.csproj"
             }
           }
         }

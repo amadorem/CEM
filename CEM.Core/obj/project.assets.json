@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Personal\\CEM\\CEM.Core\\CEM.Core.csproj",
+      "projectUniqueName": "E:\\Personal\\Projects\\CEM\\CEM.Core\\CEM.Core.csproj",
       "projectName": "CEM.Core",
-      "projectPath": "E:\\Personal\\CEM\\CEM.Core\\CEM.Core.csproj",
+      "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Core\\CEM.Core.csproj",
       "packagesPath": "C:\\Users\\michaela\\.nuget\\packages\\",
-      "outputPath": "E:\\Personal\\CEM\\CEM.Core\\obj\\",
+      "outputPath": "E:\\Personal\\Projects\\CEM\\CEM.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

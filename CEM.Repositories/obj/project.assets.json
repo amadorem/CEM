@@ -7496,11 +7496,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Personal\\CEM\\CEM.Repositories\\CEM.Repositories.csproj",
+      "projectUniqueName": "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\CEM.Repositories.csproj",
       "projectName": "CEM.Repositories",
-      "projectPath": "E:\\Personal\\CEM\\CEM.Repositories\\CEM.Repositories.csproj",
+      "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\CEM.Repositories.csproj",
       "packagesPath": "C:\\Users\\michaela\\.nuget\\packages\\",
-      "outputPath": "E:\\Personal\\CEM\\CEM.Repositories\\obj\\",
+      "outputPath": "E:\\Personal\\Projects\\CEM\\CEM.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7519,8 +7519,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Personal\\CEM\\CEM.Data\\CEM.Data.csproj": {
-              "projectPath": "E:\\Personal\\CEM\\CEM.Data\\CEM.Data.csproj"
+            "E:\\Personal\\Projects\\CEM\\CEM.Data\\CEM.Data.csproj": {
+              "projectPath": "E:\\Personal\\Projects\\CEM\\CEM.Data\\CEM.Data.csproj"
             }
           }
         }
