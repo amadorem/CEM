@@ -1,0 +1,13 @@
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Repositories.deps.json
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Repositories.dll
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Repositories.pdb
+E:\Personal\CEM\CEM.Repositories\obj\Debug\netcoreapp2.0\CEM.Repositories.csproj.CoreCompileInputs.cache
+E:\Personal\CEM\CEM.Repositories\obj\Debug\netcoreapp2.0\CEM.Repositories.AssemblyInfoInputs.cache
+E:\Personal\CEM\CEM.Repositories\obj\Debug\netcoreapp2.0\CEM.Repositories.AssemblyInfo.cs
+E:\Personal\CEM\CEM.Repositories\obj\Debug\netcoreapp2.0\CEM.Repositories.dll
+E:\Personal\CEM\CEM.Repositories\obj\Debug\netcoreapp2.0\CEM.Repositories.pdb
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Data.dll
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Data.pdb
+E:\Personal\CEM\CEM.Repositories\obj\Debug\netcoreapp2.0\CEM.Repositories.csprojResolveAssemblyReference.cache
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Core.dll
+E:\Personal\CEM\CEM.Repositories\bin\Debug\netcoreapp2.0\CEM.Core.pdb

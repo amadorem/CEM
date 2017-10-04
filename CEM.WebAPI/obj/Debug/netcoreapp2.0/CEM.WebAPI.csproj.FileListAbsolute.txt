@@ -1,0 +1,17 @@
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.Core.dll
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.Data.dll
+E:\Personal\CEM\CEM.WebAPI\obj\Debug\netcoreapp2.0\CEM.WebAPI.csprojResolveAssemblyReference.cache
+E:\Personal\CEM\CEM.WebAPI\obj\Debug\netcoreapp2.0\CEM.WebAPI.csproj.CoreCompileInputs.cache
+E:\Personal\CEM\CEM.WebAPI\obj\Debug\netcoreapp2.0\CEM.WebAPI.AssemblyInfoInputs.cache
+E:\Personal\CEM\CEM.WebAPI\obj\Debug\netcoreapp2.0\CEM.WebAPI.AssemblyInfo.cs
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.WebAPI.deps.json
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.WebAPI.runtimeconfig.json
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.WebAPI.runtimeconfig.dev.json
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.WebAPI.dll
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.WebAPI.pdb
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.Core.pdb
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.Data.pdb
+E:\Personal\CEM\CEM.WebAPI\obj\Debug\netcoreapp2.0\CEM.WebAPI.dll
+E:\Personal\CEM\CEM.WebAPI\obj\Debug\netcoreapp2.0\CEM.WebAPI.pdb
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.Repositories.dll
+E:\Personal\CEM\CEM.WebAPI\bin\Debug\netcoreapp2.0\CEM.Repositories.pdb

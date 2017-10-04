@@ -1,0 +1,15 @@
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Services.deps.json
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Services.dll
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Services.pdb
+E:\Personal\CEM\CEM.Services\obj\Debug\netcoreapp2.0\CEM.Services.csproj.CoreCompileInputs.cache
+E:\Personal\CEM\CEM.Services\obj\Debug\netcoreapp2.0\CEM.Services.AssemblyInfoInputs.cache
+E:\Personal\CEM\CEM.Services\obj\Debug\netcoreapp2.0\CEM.Services.AssemblyInfo.cs
+E:\Personal\CEM\CEM.Services\obj\Debug\netcoreapp2.0\CEM.Services.dll
+E:\Personal\CEM\CEM.Services\obj\Debug\netcoreapp2.0\CEM.Services.pdb
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Core.dll
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Data.dll
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Repositories.dll
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Core.pdb
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Repositories.pdb
+E:\Personal\CEM\CEM.Services\bin\Debug\netcoreapp2.0\CEM.Data.pdb
+E:\Personal\CEM\CEM.Services\obj\Debug\netcoreapp2.0\CEM.Services.csprojResolveAssemblyReference.cache

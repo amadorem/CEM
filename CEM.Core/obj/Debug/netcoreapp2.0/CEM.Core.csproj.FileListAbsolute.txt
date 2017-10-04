@@ -1,0 +1,9 @@
+E:\Personal\CEM\CEM.Core\bin\Debug\netcoreapp2.0\CEM.Core.deps.json
+E:\Personal\CEM\CEM.Core\bin\Debug\netcoreapp2.0\CEM.Core.dll
+E:\Personal\CEM\CEM.Core\bin\Debug\netcoreapp2.0\CEM.Core.pdb
+E:\Personal\CEM\CEM.Core\obj\Debug\netcoreapp2.0\CEM.Core.csproj.CoreCompileInputs.cache
+E:\Personal\CEM\CEM.Core\obj\Debug\netcoreapp2.0\CEM.Core.AssemblyInfoInputs.cache
+E:\Personal\CEM\CEM.Core\obj\Debug\netcoreapp2.0\CEM.Core.AssemblyInfo.cs
+E:\Personal\CEM\CEM.Core\obj\Debug\netcoreapp2.0\CEM.Core.dll
+E:\Personal\CEM\CEM.Core\obj\Debug\netcoreapp2.0\CEM.Core.pdb
+E:\Personal\CEM\CEM.Core\obj\Debug\netcoreapp2.0\CEM.Core.csprojResolveAssemblyReference.cache
